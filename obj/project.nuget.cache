@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "tPzSa8WKFjRHDp6LG0S8q7wWI4PfaxNXML7b7qQ7K6X5cmXbELsdJbeLOxXGrA9PIETmQ3Hm0GyEPw+PNdOBww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sosmani\\Downloads\\scratch projects\\ironpdftest\\ironpdftest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sosmani\\.nuget\\packages\\iron.assets.rendering.universal\\20.0.0\\iron.assets.rendering.universal.20.0.0.nupkg.sha512",
+    "C:\\Users\\sosmani\\.nuget\\packages\\ironpdf\\2020.8.1\\ironpdf.2020.8.1.nupkg.sha512",
+    "C:\\Users\\sosmani\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\sosmani\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\sosmani\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
